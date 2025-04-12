@@ -1,0 +1,46 @@
+# Build folders
+build/
+cmake-build-*/
+*/CMakeFiles/
+*/CMakeCache.txt
+*/Makefile
+*/cmake_install.cmake
+*/rules.ninja
+*/build.ninja
+*/compile_commands.json
+
+# CMake generated files
+CMakeLists.txt.user
+
+# Qt generated files
+*.autosave
+*.pro.user*
+*.qmake.stash
+*.qmake.cache
+*.moc
+*.obj
+*.o
+*.rej
+*.so
+*.app
+
+# Qt Creator specific
+.qtc_clangd/
+.qmake.stash
+qtcsettings.cmake
+
+# Qt UI Compiler
+ui_*.h
+
+# VLCPlayer UI generated
+VlcPlayer_autogen/
+
+# Other IDEs
+.idea/
+.vscode/
+*.swp
+
+# macOS / Linux / Windows
+.DS_Store
+Thumbs.db
+

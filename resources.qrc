@@ -1,0 +1,38 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/icons">
+        <file alias="approved.png">Icons/approved-96.png</file>
+        <file alias="delete.png">Icons/b-delete-50.png</file>
+        <file alias="end.png">Icons/b-end-50.png</file>
+        <file alias="folder.png">Icons/b-folder-50.png</file>
+        <file alias="forward-10.png">Icons/b-forward-10-50.png</file>
+        <file alias="forward-5.png">Icons/b-forward-5-50.png</file>
+        <file alias="fullscreen.png">Icons/b-fullscreen-50.png</file>
+        <file alias="mute.png">Icons/b-mute-50.png</file>
+        <file alias="play.png">Icons/b-play-50.png</file>
+        <file alias="skip-to-start.png">Icons/b-skip-to-start-50.png</file>
+        <file alias="stop.png">Icons/b-stop-50.png</file>
+        <file alias="time-machine.png">Icons/b-time-machine-50.png</file>
+        <file alias="video-file.png">Icons/b-video-file-50.png</file>
+        <file alias="favorite.png">Icons/fav-50.png</file>
+        <file alias="forward-10-alt.png">Icons/forward-10-50.png</file>
+        <file alias="forward-5-alt.png">Icons/forward-5-50.png</file>
+        <file alias="fullscreen-alt.png">Icons/fullscreen-50.png</file>
+        <file alias="high-volume.png">Icons/high-volume-50.png</file>
+        <file alias="play-icon.ico">Icons/icons8-play-64.ico</file>
+        <file alias="jump.png">Icons/jump-50.png</file>
+        <file alias="list.png">Icons/list-50.png</file>
+        <file alias="loop.png">Icons/loop-50.png</file>
+        <file alias="low-volume.png">Icons/low-volume-50.png</file>
+        <file alias="medium-volume.png">Icons/medium-volume-50.png</file>
+        <file alias="mute-alt.png">Icons/mute-50.png</file>
+        <file alias="next.png">Icons/next-50.png</file>
+        <file alias="not-favorite.png">Icons/not-fav-50.png</file>
+        <file alias="pause-alt.png">Icons/pause-50px.png</file>
+        <file alias="play-alt.png">Icons/play-50px.png</file>
+        <file alias="previous.png">Icons/precedent-50.png</file>
+        <file alias="replay-10.png">Icons/replay-10-50.png</file>
+        <file alias="replay-5.png">Icons/replay-5-50.png</file>
+        <file alias="stop-alt.png">Icons/stop-50px.png</file>
+    </qresource>
+</RCC>
+
